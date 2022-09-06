@@ -10,7 +10,7 @@ const reducer = combineReducers({
   const initialState = {
       
     toDoListReducer : {
-      todoItem : JSON.parse(localStorage.getItem('todolis')),
+      todoItem : localStorage.getItem('todolis') ? JSON.parse(localStorage.getItem('todolis')):[{}]
        
     }
     

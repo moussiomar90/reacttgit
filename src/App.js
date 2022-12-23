@@ -39,9 +39,7 @@ console.log(todoItem)
       </div>
  
     </div>
-    <div className='copyright'> © Developed by Omar Moussi 0.3</div>
-    <div className='copyright'> © Developed by Omar Moussi 0.4</div>
-    <div className='copyright'> © Developed by Omar Moussi 0.5</div>
+  
     </>
           );
 }

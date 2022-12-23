@@ -13,7 +13,7 @@ console.log(todoItem)
   return (<>
     <div class="container">
       <div id="newtask">
-        <center><h2>Redux ToDolist</h2> </center>
+        <center><h2>Redux ToDolist from git 2.1541</h2> </center>
         <input type="text" placeholder="Tache" value={tache} onChange={(e) => setTache(e.target.value)} />
         <button onClick={(e) => tache.length > 0 && Dispatch({ type: 'ajouter', payload: tache }) }><i class="fa-solid fa-plus"></i></button>
       </div>

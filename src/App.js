@@ -40,8 +40,8 @@ console.log(todoItem)
  
     </div>
  
-    <div className='copyright'> © Developed by Omar Moussi 0.4</div>
-    <div className='copyright'> © Developed by Omar Moussi 0.5MONKA</div>
+    <div className='copyright'> © Developed by DDDD Moussi 0.4</div>
+    <div className='copyright'> © Developed by MLKK Moussi 0.5MONKA</div>
     </>
           );
 }
